@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*this app is not made for production basis .
 
-Things you may want to cover:
+* by the way , it only requires making account with amazon web services and using it for uploading images in production . 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+*will soon do that also 
 
 * ...
